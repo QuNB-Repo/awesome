@@ -11,4 +11,5 @@ An awesome list is a **curated** collection of resources. It should reflect the 
 
 # Contents
 
-* [DevOps](devops.md)
+* [Software Development](awesomes/software-development.md)
+* [DevOps](awesomes/devops.md)
